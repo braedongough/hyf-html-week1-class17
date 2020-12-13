@@ -1,0 +1,16 @@
+.class17,
+.with-flair {
+    color: red;
+}
+
+p.class17 {
+    background-color: black;
+    color: white;
+}
+
+#dog-list-item {
+    background-color: orange;
+}
+
+div > div:first-child > p:nth-child(2) {
+}
